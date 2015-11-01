@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TestGitPrj</string>
-    <string name="line1">This is my first github project</string>
+    <string name="line1">This is my first github project\nHello_world</string>
 </resources>
