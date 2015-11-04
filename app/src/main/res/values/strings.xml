@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">TestGitPrj</string>
     <string name="line1">This is my first github project\nHello_world</string>
+    <string name="click">Test</string>
+    <string name="popshow">Popup Window Test</string>
+    <string name="close">Close</string>
 </resources>
